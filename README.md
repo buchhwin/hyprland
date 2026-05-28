@@ -4,7 +4,7 @@
 
 Clone the repository to your home folder:
    ```bash
-    git clone https://github.com/kjuvis/hyprland.git ~/simple-hyprland
+    git clone https://github.com/buchhwin/hyprland.git ~/simple-hyprland
     cd ~/simple-hyprland/scripts/
     sh install.sh
    ```
